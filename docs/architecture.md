@@ -54,9 +54,9 @@ are expensive to recompute on every dashboard load.
 
 ## GCP Services Used
 
-| Service | Tier | Cost |
-|---------|------|------|
-| Cloud Storage | Standard | ~$0 (under 5GB free tier) |
-| BigQuery | On-demand | ~$0 (under 1TB/month free tier) |
-| BigQuery ML | On-demand | Minimal (small dataset) |
-| Looker Studio | Free | Always free |
+| Service | Tier |
+|---------|------|
+| Cloud Storage | Standard |
+| BigQuery | On-demand |
+| BigQuery ML | On-demand |
+| Looker Studio | Free |
