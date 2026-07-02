@@ -1,7 +1,7 @@
 # RetailBR Analytics — GCP End-to-End Data Pipeline
 
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google&logoColor=white)
+![Google Data Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logoColor=white)
 ![BigQuery ML](https://img.shields.io/badge/BigQuery_ML-34A853?style=flat&logo=google-cloud&logoColor=white)
 
@@ -11,7 +11,7 @@ An end-to-end cloud data analytics project built on Google Cloud Platform using 
 
 ## 🔗 Live Dashboard
 
-**[View the Looker Studio Dashboard →](docs/dashboard_link.md)**
+**[View the Data Studio (previously Looker) Dashboard →](docs/dashboard_link.md)**
 https://datastudio.google.com/reporting/feea05dd-e588-44a2-a84d-7c189202e951
 
 ---
@@ -29,7 +29,7 @@ BigQuery — dwh_olist    (warehouse: fact_orders + 5 dim tables, star schema)
         ↓
 BigQuery — rpt_olist    (reporting: 12 KPI views + RFM segments + ML model)
         ↓
-Looker Studio           (5-page executive dashboard)
+Data Studio           (5-page executive dashboard)
         ↓
 BigQuery ML ARIMA_PLUS  (3-month revenue forecast)
 ```
@@ -63,7 +63,7 @@ BigQuery ML ARIMA_PLUS  (3-month revenue forecast)
 | Google Cloud Storage | Raw data lake | Local file system / S3 |
 | BigQuery | Cloud data warehouse | SQL Server / Snowflake |
 | BigQuery ML | In-database ML forecasting | Python statsmodels / scikit-learn |
-| Looker Studio | BI dashboard & visualization | Power BI / Tableau |
+| Data Studio | BI dashboard & visualization | Power BI / Tableau |
 | gsutil / Cloud Shell | CLI data loading | SSMS / command line |
 
 ---
