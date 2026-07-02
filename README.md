@@ -1,7 +1,7 @@
 # RetailBR Analytics — GCP End-to-End Data Pipeline
 
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Google Data Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google&logoColor=white)
+![Google Data Studio](https://img.shields.io/badge/Data_Studio-4285F4?style=flat&logo=google&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logoColor=white)
 ![BigQuery ML](https://img.shields.io/badge/BigQuery_ML-34A853?style=flat&logo=google-cloud&logoColor=white)
 
@@ -11,7 +11,7 @@ An end-to-end cloud data analytics project built on Google Cloud Platform using 
 
 ## 🔗 Live Dashboard
 
-**[View the Data Studio (previously Looker) Dashboard →](docs/dashboard_link.md)**
+**[View the Data Studio (previously known as Looker) Dashboard →](docs/dashboard_link.md)**
 https://datastudio.google.com/reporting/feea05dd-e588-44a2-a84d-7c189202e951
 
 ---
