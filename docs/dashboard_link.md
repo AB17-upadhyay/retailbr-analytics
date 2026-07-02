@@ -1,6 +1,6 @@
 # Live Dashboard
 
-## Looker Studio Dashboard
+## Google Data Studio (previously known as Looker Studio) Dashboard
 
 https://datastudio.google.com/reporting/feea05dd-e588-44a2-a84d-7c189202e951
 
