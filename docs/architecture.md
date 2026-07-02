@@ -28,7 +28,7 @@
                   1 physical table (rfm_segments — NTILE scoring)
                   1 ML model (revenue_forecast_model — ARIMA_PLUS)
 
-[Dashboard]       Looker Studio
+[Dashboard]       Data Studio
                   5 pages: Executive Summary | Delivery & Satisfaction |
                            Revenue & Sellers | Customer Segments |
                            Geography & Payments
@@ -59,4 +59,4 @@ are expensive to recompute on every dashboard load.
 | Cloud Storage | Standard |
 | BigQuery | On-demand |
 | BigQuery ML | On-demand |
-| Looker Studio | Free |
+| Data Studio | Free |
