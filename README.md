@@ -12,7 +12,7 @@ An end-to-end cloud data analytics project built on Google Cloud Platform using 
 ## 🔗 Live Dashboard
 
 **[View the Looker Studio Dashboard →](docs/dashboard_link.md)**
-*(Link will be updated once published)*
+https://datastudio.google.com/reporting/feea05dd-e588-44a2-a84d-7c189202e951
 
 ---
 
